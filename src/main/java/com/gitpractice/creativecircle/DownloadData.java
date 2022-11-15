@@ -1,1 +1,5 @@
-Nothing hear to write...............
+package com.gitpractice.creativecircle;
+
+public class DownloadData
+{
+	}
